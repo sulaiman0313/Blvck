@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    
+
+}
+.container{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        #080F0F 0%,
+        #080F0F 50%,
+        #3E4C5E  50%,
+        #3E4C5E  100%
+    );
+    display: flex;
+    color: aliceblue;
+
+    
+
+}
+.container1 h2{
+    margin: 10px 10px;
+}
+.container1 h1{
+    margin: 150px 180px;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+}
+span{
+    color: #EC7357;
+}
+
+
